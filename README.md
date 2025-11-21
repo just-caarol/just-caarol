@@ -12,7 +12,7 @@ I hold the <strong>ISTQB</strong> Certified Tester Foundation Level (CTFL) certi
 
 <p align="center">
   <a href="https://github.com/just-caarol/test-documentation" target="_blank">
-    :point_right: take a look at the <b>test documentation</b>
+    :point_right: Take a look at the <b>Test Documentation</b>
   </a>
 </p>
 
