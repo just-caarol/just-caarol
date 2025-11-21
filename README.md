@@ -9,9 +9,9 @@ I hold the <strong>ISTQB</strong> Certified Tester Foundation Level (CTFL) certi
 📄 I hold the <strong>ISTQB CTFL certification</strong>  
 📫 How to reach me: justcaarol@gmail.com  
 
-<div align="center">
-  <img src="./pic3.jpg" alt="" width="600" style="clear: both"/>
-</div>
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/9b95fc51-2c10-41cf-a51d-734d59b1f345" alt="" width="60%" style="clear: both"/>
+ </div>
 
 <div align="center">
   <a href="http://www.freepik.com">Designed by vectorjuice / Freepik</a>
