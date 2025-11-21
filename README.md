@@ -10,11 +10,11 @@ I hold the <strong>ISTQB</strong> Certified Tester Foundation Level (CTFL) certi
 📫 How to reach me: justcaarol@gmail.com  
 
  <div align="center">
-  <img src="https://github.com/user-attachments/assets/9b95fc51-2c10-41cf-a51d-734d59b1f345" alt="" width="60%" style="clear: both"/>
+  <img src="https://github.com/user-attachments/assets/c0d18778-10be-470e-a308-698257a77c37" alt="" width="60%" style="clear: both"/>
  </div>
 
 <div align="center">
-  <a href="http://www.freepik.com">Designed by vectorjuice / Freepik</a>
+ <a href="https://www.freepik.com/free-vector/testing-new-program-application_415789341.htm#fromView=keyword&page=1&position=1&uuid=059a1660-90fa-403c-b158-700c734c865f&query=Software+bug+tracking+system">Image by Kampus on Freepik</a>
 </div>
 
 
@@ -22,6 +22,8 @@ I hold the <strong>ISTQB</strong> Certified Tester Foundation Level (CTFL) certi
 **just-caarol/just-caarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://github.com/user-attachments/assets/9b95fc51-2c10-41cf-a51d-734d59b1f345
+  <a href="http://www.freepik.com">Designed by vectorjuice / Freepik</a>
 
 - 🔭 I’m currently open to a new Job
 - 🌱 I’m currently learning Cypress
