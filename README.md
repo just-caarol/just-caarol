@@ -9,6 +9,13 @@ I hold the <strong>ISTQB</strong> Certified Tester Foundation Level (CTFL) certi
 📄 I hold the <strong>ISTQB CTFL certification</strong>  
 📫 How to reach me: justcaarol@gmail.com  
 </br>
+
+<p align="center">
+  <a href="https://github.com/just-caarol/test-documentation" target="_blank">
+    :point_right: take a look at the <b>test documentation</b>
+  </a>
+</p>
+
  <div align="center">
   <img src="https://github.com/user-attachments/assets/c0d18778-10be-470e-a308-698257a77c37" alt="" width="70%" style="clear: both"/>
  </div>
