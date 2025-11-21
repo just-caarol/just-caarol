@@ -10,7 +10,7 @@ I hold the <strong>ISTQB</strong> Certified Tester Foundation Level (CTFL) certi
 📫 How to reach me: justcaarol@gmail.com  
 
  <div align="center">
-  <img src="https://github.com/user-attachments/assets/c0d18778-10be-470e-a308-698257a77c37" alt="" width="70%" style="clear: both"/>
+  <img src="https://github.com/user-attachments/assets/c0d18778-10be-470e-a308-698257a77c37" alt="" width="55%" style="clear: both"/>
  </div>
 
 <div align="center">
