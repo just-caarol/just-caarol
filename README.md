@@ -13,7 +13,7 @@ I hold the <strong>ISTQB</strong> Certified Tester Foundation Level (CTFL) certi
 ### <p align="center"><a href="https://github.com/just-caarol/test-documentation" target="_blank">:point_right: Take a look at the <b>Test Documentation</b></a></p>
 
  <div align="center">
-  <img src="https://github.com/user-attachments/assets/c0d18778-10be-470e-a308-698257a77c37" alt="" width="70%" style="clear: both"/>
+  <img src="https://github.com/user-attachments/assets/c0d18778-10be-470e-a308-698257a77c37" alt="Picture from Freepik about testing new program or application" width="70%" style="clear: both"/>
  </div>
 
 ###### <div align="center"><a href="https://www.freepik.com/free-vector/testing-new-program-application_415789341.htm#fromView=keyword&page=1&position=1&uuid=059a1660-90fa-403c-b158-700c734c865f&query=Software+bug+tracking+system">Image by Kampus on Freepik</a></div>
