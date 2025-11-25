@@ -6,7 +6,7 @@ I hold the <strong>ISTQB</strong> Certified Tester Foundation Level (CTFL) certi
  
 🔭 I’m currently open to a ✨ new Job ✨  
 🌱 I’m currently learning <strong>Cypress</strong>  
-📄 I hold the <strong>ISTQB CTFL certification</strong>  
+📄 I hold the :point_right:<a href="https://scr.istqb.org/?name=rosa&number=&orderBy=relevancy&orderDirection=&dateStart=2025-10-13&dateEnd=2025-10-13&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10" target="_blank"><strong>ISTQB CTFL certification</strong></a>    
 📫 How to reach me: justcaarol@gmail.com  
 </br>
 
